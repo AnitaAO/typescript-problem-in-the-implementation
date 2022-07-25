@@ -1,4 +1,4 @@
-class LikeComponent {
+export class LikeComponent {
   constructor(private _likesCount: number, private _isSelected: true) {}
 }
 
